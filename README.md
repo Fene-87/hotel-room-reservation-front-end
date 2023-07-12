@@ -55,9 +55,7 @@
 
 ***[Link to Live Demo](https://book-ease.onrender.com/)***
 
-***[Link to FrontEnd Repo](https://github.com/huzaifakhan0308/full-stack-capstone-front-end)***
-
-***[Link to BackEnd Repo](https://github.com/huzaifakhan0308/full-stack-capstone-back-end)***
+***[Link to BackEnd Repo](https://github.com/Fene-87/hotel-room-reservation-back-end)***
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
